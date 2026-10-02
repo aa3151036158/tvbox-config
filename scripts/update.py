@@ -474,7 +474,7 @@ def main() -> int:
 
     # 生成聚合单仓文件（把所有成功源的 sites/lives/parses 合并成一个单仓）
     merged = merge_configs(fetched, live_entries)
-    merged_path = os.path.join(OUTPUT_DIR, "单仓聚合.json")
+    merged_path = os.path.join(OUTPUT_DIR, "sige.json")
     if merged is not None:
         with open(merged_path, "w", encoding="utf-8") as f:
             json.dump(merged, f, ensure_ascii=False, indent=2)
