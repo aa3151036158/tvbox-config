@@ -1,0 +1,13 @@
+{
+    "sites": [],
+    "lives": [
+        {
+            "key": "test",
+            "name": "测试直播",
+            "type": 0,
+            "api": "http://74.91.26.218:82/live/cctv13hd.m3u8"
+        }
+    ],
+    "parses": [],
+    "flags": []
+}
