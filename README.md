@@ -12,11 +12,11 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-27 22:45:27（北京时间） · 成功 **4/10** 个源
+> 🔄 最近更新：2026-10-28 10:40:32（北京时间） · 成功 **4/10** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
-| 肥猫 | ✅ 成功 | `http://肥猫.net/tv` |
+| 肥猫 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | 饭太硬 | ❌ 失败 | Expecting value: line 1 column 1 (char 0) |
 | 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
 | 讴歌 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
@@ -25,7 +25,7 @@
 | 小米 | ❌ 失败 | HTTPConnectionPool(host='miqk.cc', port=80): Max retries ... |
 | 巧记 | ❌ 失败 | HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max ... |
 | 4K小盒子 | ✅ 成功 | `http://xhztv.top/4k.json` |
-| 潇洒 | ❌ 失败 | 502 Server Error: Bad Gateway for url: https://9877.kstor... |
+| 潇洒 | ❌ 失败 | 404 Client Error:  for url: https://9877.kstore.space/Ano... |
 <!-- STATUS_END -->
 
 ## 二、仓库结构
