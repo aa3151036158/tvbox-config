@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 17:50:34",
+  "updated_at": "2026-11-19 05:47:58",
   "repo": "aa3151036158/tvbox-config",
   "sources": [
     {
@@ -72,7 +72,7 @@
       "name": "潇洒",
       "ok": false,
       "used_url": null,
-      "error": "404 Client Error:  for url: https://9877.kstore.space/AnotherD/api.json"
+      "error": "502 Server Error: Bad Gateway for url: https://9877.kstore.space/AnotherD/api.json"
     }
   ],
   "live_sources": [
