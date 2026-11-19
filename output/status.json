@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:59:44",
+  "updated_at": "2026-11-20 06:03:44",
   "repo": "aa3151036158/tvbox-config",
   "sources": [
     {
@@ -21,8 +21,9 @@
       "id": "wangerxiao",
       "name": "王二小",
       "ok": true,
-      "used_url": "https://d.kstore.dev/download/9280/wex.json",
-      "error": null
+      "used_url": "(缓存)",
+      "error": "502 Server Error: Bad Gateway for url: https://9280.kstore.vip/aiwex.json",
+      "cached": true
     },
     {
       "id": "ouge",
@@ -72,7 +73,7 @@
       "name": "潇洒",
       "ok": false,
       "used_url": null,
-      "error": "HTTPSConnectionPool(host='9877.kstore.space', port=443): Read timed out. (read timeout=20)"
+      "error": "502 Server Error: Bad Gateway for url: https://9877.kstore.space/AnotherD/api.json"
     }
   ],
   "live_sources": [
