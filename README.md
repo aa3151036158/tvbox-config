@@ -12,13 +12,13 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-11-20 06:03:44（北京时间） · 成功 **4/10** 个源
+> 🔄 最近更新：2026-11-20 17:44:46（北京时间） · 成功 **4/10** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
 | 肥猫 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | 饭太硬 | ❌ 失败 | Expecting value: line 1 column 1 (char 0) |
-| 王二小 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
+| 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
 | 讴歌 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | 摸鱼 | ❌ 失败 | HTTPConnectionPool(host='xn--c5wa.xn--v4q818bf34b.top', p... |
 | OK | ❌ 失败 | HTTPConnectionPool(host='ok321.top', port=80): Max retrie... |

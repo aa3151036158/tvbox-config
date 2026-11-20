@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 06:03:44",
+  "updated_at": "2026-11-20 17:44:46",
   "repo": "aa3151036158/tvbox-config",
   "sources": [
     {
@@ -21,9 +21,8 @@
       "id": "wangerxiao",
       "name": "王二小",
       "ok": true,
-      "used_url": "(缓存)",
-      "error": "502 Server Error: Bad Gateway for url: https://9280.kstore.vip/aiwex.json",
-      "cached": true
+      "used_url": "https://d.kstore.dev/download/9280/wex.json",
+      "error": null
     },
     {
       "id": "ouge",
