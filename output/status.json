@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 17:25:32",
+  "updated_at": "2026-11-23 04:41:49",
   "repo": "aa3151036158/tvbox-config",
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "潇洒",
       "ok": false,
       "used_url": null,
-      "error": "502 Server Error: Bad Gateway for url: https://9877.kstore.space/AnotherD/api.json"
+      "error": "HTTPSConnectionPool(host='9877.kstore.space', port=443): Read timed out. (read timeout=20)"
     }
   ],
   "live_sources": [
